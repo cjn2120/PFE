@@ -20,7 +20,7 @@ from sklearn.decomposition import FastICA, PCA
 #del data_df
 #del data
 
-os.chdir('C:/Users/saumy/Google Drive/data')
+os.chdir('C:\Users\Clement Natta\Desktop\PFE')
 
 with open('Tickers.txt') as tickers:
     reader=tickers.read().split("\n")

@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 #del data_df
 #del data
 
-os.chdir('/Users/admin/Documents/Big data/data')
+os.chdir('C:\Users\Clement Natta\Desktop\PFE')
 
 with open('Tickers.txt') as tickers:
     reader=tickers.read().split("\n")

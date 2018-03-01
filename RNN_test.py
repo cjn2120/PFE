@@ -14,8 +14,8 @@ learning phase
 
 """
 
-data_path = '/Users/Drogon/Documents/Columbia/Courses/Fall_2017/Big_Data_Choromanski/data/data'
-folder_name = 'dummy' ############# CHANGE THIS
+data_path ='C:\\Users\\Clement Natta\\Desktop\\PFE'
+folder_name ='\\PFEdummy' ############# CHANGE THIS
 
 import numpy as np
 import pandas as pd
@@ -104,7 +104,7 @@ cum_market_return = []
 
 test_i = 0
   
-results_path = data_path + folder_name + '/'
+results_path = data_path + folder_name + '\\'
 
 U_learned = pd.read_csv(results_path + 'U.csv').values[:,1:]
 W_learned = pd.read_csv(results_path + 'W.csv').values[:,1:]

@@ -16,7 +16,7 @@ from sklearn.decomposition import FastICA, PCA
 
 
 
-os.chdir('C:/Users/Makhtar Ba/Documents/Columbia/TimeSeriesAnalysis/data/data')
+os.chdir('C:\Users\Clement Natta\Desktop\PFE')
 
 with open('Tickers.txt') as tickers:
     reader=tickers.read().split("\n")

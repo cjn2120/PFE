@@ -10,7 +10,7 @@ Egs: data_path = '/Users/AllData/'
 
 """
 
-data_path = '/Users/Drogon/Documents/Columbia/Courses/Fall_2017/Big_Data_Choromanski/data/data'
+data_path = 'C:\\Users\\Clement Natta\\Desktop\\PFE'
 
 
 import numpy as np
