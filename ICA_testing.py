@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov  6 02:05:43 2017
-
-@author: Makhtar Ba
-"""
 import numpy as np
 import sklearn
 import pandas as pd

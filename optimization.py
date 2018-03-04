@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov  4 13:21:57 2017
-
-@author: Makhtar Ba
-"""
 import numpy as np
 import matplotlib.pyplot as plt
 import cvxopt as opt

@@ -1,14 +1,3 @@
-# -*- coding: utf-8 -*-
-#!/usr/bin/env python3
-"""
-Created on Thu Dec  7 23:41:41 2017
-@author: Drogon
-
-Please modify the data_path string below to the directory where 'RawData.csv' is stored
-Egs: data_path = '/Users/AllData/'
-
-
-"""
 
 data_path = 'C:\\Users\\Clement Natta\\Desktop\\PFE'
 

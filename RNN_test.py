@@ -1,19 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 13 17:39:05 2017
-
-@author: Drogon
-
-Please modify the data_path string below to the directory where 'RawData.csv' is stored
-Egs: data_path = '/Users/AllData/'
-
-Note: folder_name string below should be the name of the folder_
-(inside the data_path folder) in which the parameters were exported in the_
-learning phase
-
-"""
-
 data_path ='C:\\Users\\Clement Natta\\Desktop\\PFE'
 folder_name ='\\PFEdummy' ############# CHANGE THIS
 
